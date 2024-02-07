@@ -32,7 +32,7 @@ define Package/gn
 endef
 
 define Package/gn/description
-  GN can generate Ninja build files for C, C++, Rust, Objective C,
+  GN can generate Ninja build files for C, C++, Objective C,
   and Swift source on most popular platforms.
 endef
 
